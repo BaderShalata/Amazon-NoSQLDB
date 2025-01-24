@@ -7,3 +7,6 @@ We queried the database using mixtures of Aggregation pipelines MongoDB and Pyth
 We then recorded a 20 minutes video explaining our design choices, patterns and queries. 
 
 Lastly, individually, we reported on any replication and partition strategies if the company decides to expand to other EU branches.
+
+* Snippet of results: 
+![image](https://github.com/user-attachments/assets/4d2e55b3-5803-40d5-a1ee-8426b3a156db)
